@@ -1,0 +1,2 @@
+ls: cannot access '/homes': No such file or directory
+-rw-r--r-- 1 root root 70 Jan 29 15:21 shell_redirections
